@@ -1,9 +1,13 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.12.35527.113 d17.12
+VisualStudioVersion = 17.12.35527.113
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Variaveis", "Variaveis\Variaveis.csproj", "{6CB905B0-0D88-42CD-99FF-FE04C3216411}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConvertendoValores", "ConvertendoValores\ConvertendoValores.csproj", "{D494BABB-BD5A-441B-90F8-92F5BEA66EEE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OperadoresAritmeticos", "OperadoresAritmeticos\OperadoresAritmeticos.csproj", "{2F28C20A-FDA2-42B4-BBA8-2FAE84D7033B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +19,14 @@ Global
 		{6CB905B0-0D88-42CD-99FF-FE04C3216411}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6CB905B0-0D88-42CD-99FF-FE04C3216411}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6CB905B0-0D88-42CD-99FF-FE04C3216411}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D494BABB-BD5A-441B-90F8-92F5BEA66EEE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D494BABB-BD5A-441B-90F8-92F5BEA66EEE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D494BABB-BD5A-441B-90F8-92F5BEA66EEE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D494BABB-BD5A-441B-90F8-92F5BEA66EEE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2F28C20A-FDA2-42B4-BBA8-2FAE84D7033B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2F28C20A-FDA2-42B4-BBA8-2FAE84D7033B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2F28C20A-FDA2-42B4-BBA8-2FAE84D7033B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2F28C20A-FDA2-42B4-BBA8-2FAE84D7033B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
